@@ -6,5 +6,6 @@ import (
 )
 
 func main() {
+	// print
 	fmt.Println(stringutil.ToUpper("hello"))
 }
